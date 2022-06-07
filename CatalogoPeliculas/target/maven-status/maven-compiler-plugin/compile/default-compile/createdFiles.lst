@@ -1,0 +1,9 @@
+com\nazareno\peliculas\domain\Pelicula.class
+com\nazareno\peliculas\negocio\CatalogoPeliculas.class
+com\nazareno\peliculas\negocio\CatalogoPeliculasImpl.class
+com\nazareno\peliculas\excepciones\AccesoDatosEx.class
+com\nazareno\testLaboratorio\Test.class
+com\nazareno\peliculas\datos\AccesoDatos.class
+com\nazareno\peliculas\datos\AccesoDatosImpl.class
+com\nazareno\peliculas\excepciones\EscrituraDeDatosEx.class
+com\nazareno\peliculas\excepciones\LecturasDeDatosEx.class
